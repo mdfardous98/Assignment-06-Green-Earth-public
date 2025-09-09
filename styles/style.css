@@ -1,0 +1,18 @@
+
+* {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+.google-font {
+   font-family: "Inter", sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+
